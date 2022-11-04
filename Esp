@@ -1,1 +1,10 @@
-e
+-- Script remote (Need simple knowledge to use ive done the coding for you feel free to add more shit ig)
+
+
+getgenv().XX = false --[[ We edit this to true to trigger the event (HINT HINT) *use a loop to check THIS raw loadstring i use pastebin cos faster update times but github
+will work*]]
+
+
+if getgenv()>XX == true then 
+    -- Add ur shitty little code here and boom remote in 10 lines
+end
