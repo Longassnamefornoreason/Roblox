@@ -1,1 +1,1 @@
-_G.key=""Test"" 
+_G.key="Test"
